@@ -26,6 +26,5 @@ I am a passionate Software Engineer with a strong desire to build fast, efficien
 - ✉️ Email: [syedali0057@gmail.com](mailto:syedali0057@gmail.com)
 - 🔗 LinkedIn: [syedalijaseem](https://www.linkedin.com/in/syedalijaseem/)
 - 🌐 Website: [syedalijaseem.netlify.app](https://syedalijaseem.netlify.app/)
-- 💼 GitHub: [syedalijaseem](https://github.com/syedalijaseem)
 
 Let's connect and collaborate on exciting projects! 🚀
