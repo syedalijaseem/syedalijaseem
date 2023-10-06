@@ -1,5 +1,6 @@
 # Hi there, I'm Syed Ali Jaseem! 👋
 
+![Profile views](https://img.shields.io/github/profile-views/syedalijaseem/syedalijaseem)
 [![trophy](https://github-profile-trophy.vercel.app/?username=syedalijaseem)](https://github.com/ryo-ma/github-profile-trophy)
 
 I am a passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My career goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology.
