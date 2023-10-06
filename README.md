@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Ali Jaseem! 👋
 
-I am a passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My career goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology. 🚀
+A passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My career goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology. 🚀
 
 ## About Me
 - 💼 Currently, I have a strong experience in JavaScript and some exposure to React JS.
@@ -11,7 +11,7 @@ I am a passionate Software Engineer with a strong desire to build fast, efficien
 ## Education 📚
 - 🎓 Bachelor's of Engineering in Software Engineering from the School of Electrical Engineering & Computer Sciences at National University of Sciences & Technology (NUST), Islamabad, Pakistan, 2023.
 - 🎓 Pakistan International School English Section, Edxcel A-levels.
-- 📚 Pakistan International School English Section, Cambridge O-levels. 📖
+- 🎓 Pakistan International School English Section, Cambridge O-levels. 📖
 
 ## Skills 🛠️
 - 💻 **Languages**: JavaScript, Python, Java
@@ -20,7 +20,7 @@ I am a passionate Software Engineer with a strong desire to build fast, efficien
 - 🎨 **UI Frameworks**: Bootstrap, Tailwind CSS
 - 💻 **Operating Systems**: Linux
 - 📱 **Mobile App Development**: Flutter
-- 👥 **Teamwork** and **Responsive Web Design**
+- 👥 **Leadership** and **Teamwork**
 
 ## Get in Touch 📫
 - ✉️ Email: [syedali0057@gmail.com](mailto:syedali0057@gmail.com)
