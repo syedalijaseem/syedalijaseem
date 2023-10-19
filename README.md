@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Ali Jaseem! 👋
 
-A passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My career goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology. 🚀
+A passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My current goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology. 🚀
 
 ## About Me
 - 💼 Currently, I have a strong experience in JavaScript and some exposure to React JS.
