@@ -14,12 +14,11 @@ A passionate Software Engineer with a strong desire to build fast, efficient, an
 - 🎓 Pakistan International School English Section, Cambridge O-levels. 📖
 
 ## Skills 🛠️
-- 💻 **Languages**: JavaScript, Python, Java
-- 🌐 **Web Development**: HTML, CSS, MERN Stack (MongoDB, Express.js, React.js, Node.js), Firebase, MySQL
+- 💻 **Languages**: JavaScript, Python, Typescript
+- 🌐 **Web Development**: Typescript, React.js, MySQL
 - 📡 **Version Control**: Git, GitHub
 - 🎨 **UI Frameworks**: Bootstrap, Tailwind CSS
 - 💻 **Operating Systems**: Linux
-- 📱 **Mobile App Development**: Flutter
 - 👥 **Leadership** and **Teamwork**
 
 ## Get in Touch 📫
