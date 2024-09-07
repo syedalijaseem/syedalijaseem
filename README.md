@@ -13,8 +13,7 @@ An aspiring Data Engineer with experience in Python, SQL, JavaScript, and React 
 - 🎓 Bachelor's of Engineering in Software Engineering from the National University of Sciences & Technology (NUST), Islamabad, Pakistan.
 
 ## Skills 🛠️
-- 💻 **Languages**: [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev), [SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff
-), [JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000), [Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+- 💻 **Languages**: [![My Skills](https://skillicons.dev/icons?i=python,sql,js,ts)](https://skillicons.dev)
 - 📊 **Data Engineering**: [SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff
 ), [Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ,[Polars](https://img.shields.io/badge/-Polars-0078D4?logoColor=fff), [Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)
 - 🌐 **Web Development**: [Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff), [React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), [SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff
