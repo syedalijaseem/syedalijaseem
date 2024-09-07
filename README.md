@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Ali Jaseem! 👋
 
-A passionate Software Engineer with a strong desire to build fast, efficient, and scalable software products while adhering to the best software development practices. My current goal is to become a Full Stack Software Engineer, and I'm dedicated to continuous learning and growth in the field of technology. 🚀
+An aspiring Data Engineer with experience in JavaScript, React Js, Python, and SQL. Transitioning from Software Engineering to Data Engineering, focusing on building scalable, data-driven solutions. Passionate about solving complex problems and optimizing data processes. Aiming to leverage my skills to design robust data pipelines and lead in the data engineering field.
 
 ## About Me
 - 💼 Currently, I have a strong experience in JavaScript and React with Typescript.
