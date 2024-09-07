@@ -13,12 +13,11 @@ An aspiring Data Engineer with experience in Python, SQL, JavaScript, and React 
 - 🎓 Bachelor's of Engineering in Software Engineering from the National University of Sciences & Technology (NUST), Islamabad, Pakistan.
 
 ## Skills 🛠️
-- 💻 **Languages**: [![My Skills](https://skillicons.dev/icons?i=python,sql,js,ts)](https://skillicons.dev)
-- 📊 **Data Engineering**: [SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff
-), [Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ,[Polars](https://img.shields.io/badge/-Polars-0078D4?logoColor=fff), [Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)
-- 🌐 **Web Development**: [Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff), [React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), [SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff
-- 🛠️ **Version Control**: [Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff), GitHub, Bitbucket
-- 🎨 **UI Frameworks**: Tailwind CSS, FlowBite, Bootstrap
+- 💻 **Languages**: [![My Skills](https://skillicons.dev/icons?i=python,mysql,js,ts)](https://skillicons.dev)
+- 📊 **Data Engineering**: SQL, Python, Polars, Pandas
+- 🌐 **Web Development**: [![My Skills](https://skillicons.dev/icons?i=react,js,ts,mysql)](https://skillicons.dev)
+- 🛠️ **Version Control**: [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+- 🎨 **UI Frameworks**: Flowbite, Flowbite-React, [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
 - 👥 **Soft Skills**: Leadership, Teamwork, Project Management
 
 ## Get in Touch 📫
