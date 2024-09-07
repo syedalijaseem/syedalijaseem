@@ -3,7 +3,7 @@
 An aspiring Data Engineer with experience in Python, SQL, JavaScript, and React Js. Transitioning from Software Engineering to Data Engineering, focusing on building scalable, data-driven solutions. Passionate about solving complex problems and optimizing data processes. Aiming to leverage my skills to design robust data pipelines and lead in the data engineering field.
 
 ## About Me
-- 💼 Currently, pursuing a Master's in Computer Science at University of South Dakota.
+- 💼 Currently pursuing a Master's in Computer Science at University of South Dakota.
 - 🚀 Career Goals: Transitioning towards Data Engineering, aiming to design and implement robust data pipelines while leveraging my skills in software development.
 - 🌐 Web Development: Experienced in full-stack development with a focus on creating modern, responsive applications using JavaScript and React.
 - 👨‍💻 Passion: Driven by a genuine passion for solving complex problems and optimizing data workflows, with a long-term goal of becoming a leader in the Data Engineering field.
