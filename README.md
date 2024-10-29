@@ -14,7 +14,7 @@ A dedicated Software Engineer with experience in Python, SQL, JavaScript, and Re
 
 ## Skills 🛠️
 - 💻 **Languages**: [![My Skills](https://skillicons.dev/icons?i=python,mysql,js,ts)](https://skillicons.dev) 
-- 🌐 **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=react,next,node)](https://skillicons.dev)
+- 🌐 **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=next,react,nodejs)](https://skillicons.dev)
 - 🛠️ **Version Control**: [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 - 🎨 **UI Frameworks**: Flowbite, Flowbite-React, [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
 - 👥 **Soft Skills**: Leadership, Teamwork, Project Management
