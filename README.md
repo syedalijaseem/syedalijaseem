@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Ali Jaseem! 👋
 
-A dedicated Software Engineer with experience in Python, SQL, JavaScript, and React. Focused on building scalable, data-driven solutions while pursuing my Master's in Computer Science. I’m passionate about solving complex problems and optimizing software processes, aiming to leverage my skills to design robust applications and lead in the software engineering field.
+Software Engineer with expertise in JavaScript and Python, specializing in building robust web applications with strong skills in debugging and error resolution. Skilled in delivering scalable, user-focused solutions with React, Node.js, and Tailwind.
 
 ## About Me
 -💼 Currently pursuing a Master's in Computer Science at the University of South Dakota.
