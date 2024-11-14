@@ -2,8 +2,6 @@
 
 Software Engineer with expertise in JavaScript and Python, specializing in building robust web applications with strong skills in debugging and error resolution. Skilled in delivering scalable, user-focused solutions with React, Node.js, and Tailwind.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 -💼 Currently pursuing a Master's in Computer Science at the University of South Dakota.
 -🚀 Career Goals: Aiming to design and implement robust software solutions while leveraging my skills in software development.
