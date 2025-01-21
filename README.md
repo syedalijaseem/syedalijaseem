@@ -2,9 +2,8 @@
 
 Machine Learning Engineer in the making | Software Developer | Master's in Computer Science (University of South Dakota)
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact)
-
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem&hide=stars,prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark)](https://git.io/streak-stats)
 
 ## About Me
