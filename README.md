@@ -2,7 +2,7 @@
 
 Machine Learning Engineer in the making | Software Developer | Master's in Computer Science (University of South Dakota)
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues,contribs)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 - 🚀 Currently transitioning towards Machine Learning Engineering while leveraging my strong background in software development.
