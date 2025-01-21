@@ -4,6 +4,7 @@ Machine Learning Engineer in the making | Software Developer | Master's in Compu
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark)](https://git.io/streak-stats)
 
 ## About Me
 - 🚀 Currently transitioning towards Machine Learning Engineering while leveraging my strong background in software development.
