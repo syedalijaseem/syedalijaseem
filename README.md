@@ -1,6 +1,6 @@
 # Hi, I'm Syed Ali Jaseem! 👋
 
-Machine Learning Engineer in the making | Software Developer | Master's in Computer Science (University of South Dakota)
+Machine Learning Engineer in the making | Software Engineer | Master's in Computer Science (University of South Dakota)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact&theme=dark)
@@ -12,7 +12,7 @@ Machine Learning Engineer in the making | Software Developer | Master's in Compu
 
 ## Skills 🛠️
 - **Languages**: Python, JavaScript, SQL
-- **Frameworks & Libraries**: TensorFlow, PyTorch, React, Node.js, Next.js
+- **Frameworks & Libraries**: React, PyTorch, Next.js, Node.js
 - **UI Frameworks**: Tailwind CSS, Flowbite, Bootstrap
 - **Tools**: Git, GitHub, Bitbucket
 
