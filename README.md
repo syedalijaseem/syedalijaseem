@@ -1,28 +1,30 @@
-# Hi, I'm Syed Ali Jaseem! 👋
+# Syed Ali Jaseem
 
-AI Engineer in the making | Software Engineer | Master's in Computer Science (University of South Dakota)
+Software Engineer | MS Computer Science @ USD (May 2026) | Building AI-powered applications
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact&theme=dark)
 
-## About Me
-- 🚀 Currently transitioning towards AI Engineering while leveraging my strong background in software development.
-- 💻 Experienced in full-stack development (React, Node.js, Tailwind) and passionate about applying software engineering principles to solve machine learning challenges.
-- 🎯 Career goal: To design and implement cutting-edge ML models and scalable systems that solve real-world problems.
+## About
 
-## Skills 🛠️
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks & Libraries**: React, PyTorch, Next.js, Node.js
-- **UI Frameworks**: Tailwind CSS, Flowbite, Bootstrap
-- **Tools**: Git, GitHub, Bitbucket
+Full-stack engineer with experience building production applications and AI systems. Previously worked at Afiniti (billion-dollar tech company) debugging AI deployment pipelines. Currently building RAG-based document Q&A systems and other AI-powered products.
 
-## Education 📚
-- **M.Sc. in Computer Science** (University of South Dakota, in progress)
-- **B.Eng. in Software Engineering** (NUST, Islamabad)
+**Recent project:** [Querious](https://querious.dev) - Production RAG system for document Q&A ([read the technical breakdown](https://syedalijaseem.medium.com/building-a-production-rag-system-architecture-and-technical-decisions-bf817c8b519f))
 
-## Get in Touch 📫
-- ✉️ [syedalijaseem@gmail.com](mailto:syedalijaseem@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/syedalijaseem/)
-- 🌐 [Portfolio](https://syedalijaseem.netlify.app/)
+## Tech Stack
 
-Let’s connect and explore the world of AI! 🚀
+**Languages:** Python, JavaScript, TypeScript  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** FastAPI, Node.js, Express  
+**Databases:** MongoDB, SQL  
+**Tools:** Git, Docker, AWS
+
+## Education
+
+**MS Computer Science** - University of South Dakota (4.0 GPA, May 2026)  
+**BE Software Engineering** - NUST, Pakistan
+
+## Connect
+
+📧 [syedalijaseem@gmail.com](mailto:syedalijaseem@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/syedalijaseem/)  
+🌐 [querious.dev](https://querious.dev)
