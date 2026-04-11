@@ -4,7 +4,7 @@ Software Engineer | MS Computer Science @ USD (May 2026) | Building AI-powered a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalijaseem&layout=compact&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About
 
