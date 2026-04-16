@@ -62,8 +62,6 @@ Currently: finishing my MS, writing a co-authored review on Medical VQA, and bui
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedalijaseem&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Ali's Stats](https://github-readme-stats.vercel.app/api?username=syedalijaseem&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 </div>
 
 ---
