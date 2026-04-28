@@ -15,7 +15,7 @@
 
 ### About
 
-Full-stack engineer focused on AI systems and production applications. I've debugged ML pipelines at **Afiniti**, fine-tuned 13B+ parameter medical vision-language models on A100 clusters at **USD**, and shipped [Querious](https://querious.dev) — a production RAG system with 85% latency reduction via SSE streaming.
+Full-stack engineer focused on AI systems and production applications. I've debugged ML pipelines at **Afiniti**, fine-tuned 13B+ parameter medical vision-language models on A100 clusters at **USD**, and shipped [Querious](https://querious.dev) — a production RAG system with 88% latency reduction via SSE streaming.
 
 Currently: finishing my MS, writing a co-authored review on Medical VQA, and building.
 
@@ -48,7 +48,7 @@ Currently: finishing my MS, writing a co-authored review on Medical VQA, and bui
 **[Querious](https://querious.dev)** — Production RAG system for semantic document Q&A
 
 - 📄 PDF ingestion with sentence-aware chunking & 3072-dim embeddings
-- ⚡ 85% latency reduction via SSE streaming (45s → 7s TTFT)
+- ⚡ 88% latency reduction via SSE streaming (45–60s → 4s TTFT)
 - 🔐 JWT + Google OAuth, rate limiting, 120+ automated tests
 - 🚀 Deployed on Fly.io + Vercel
 
