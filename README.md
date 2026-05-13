@@ -2,7 +2,7 @@
 
 # Syed Ali Jaseem
 
-**Full-Stack & AI Engineer** · MS Computer Science @ USD (May 2026)
+**Full-Stack & AI Engineer** · MS Computer Science @ USD
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedalijaseem.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedalijaseem/)
@@ -17,7 +17,7 @@
 
 Full-stack engineer focused on AI systems and production applications. I've debugged ML pipelines at **Afiniti**, fine-tuned 14B+ parameter medical vision-language models on A100 clusters at **USD**, and shipped [Querious](https://querious.dev) — a production RAG system with 88% latency reduction via SSE streaming.
 
-Currently: finishing my MS, writing a co-authored review on Medical VQA, and building.
+Currently: Writing a first author review on Medical VQA, and building.
 
 ---
 
